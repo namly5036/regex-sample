@@ -5,6 +5,15 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../tut-spring-boot-oauth2/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-jwt-without-JPA/spring-boot-jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/../sfg-blog-posts/AuthenticatorService/pom.xml" />
+        <option value="$PROJECT_DIR$/../sfg-blog-posts/BlogService/pom.xml" />
+        <option value="$PROJECT_DIR$/../Authentication-Service/Api-Gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../Authentication-Service/AuthenticationServer/pom.xml" />
+        <option value="$PROJECT_DIR$/../Authentication-Service/Config-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/../Authentication-Service/Naming-Server/pom.xml" />
+        <option value="$PROJECT_DIR$/../Authentication-Service/User-Service/pom.xml" />
       </list>
     </option>
   </component>

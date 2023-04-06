@@ -1,3 +1,4 @@
+import lombok.SneakyThrows;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
@@ -106,4 +107,110 @@ public class RegexSampleTest {
         return runTest(regex, text, -1);
     }
     //https://www.baeldung.com/regular-expressions-java
+
+    @Test
+    @SneakyThrows
+    public void test() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test1() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test2() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test3() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test4() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test5() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test6() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test7() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test8() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test9() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test10() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test11() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test12() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test13() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test14() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test15() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test16() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test17() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test18() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test19() {
+        Thread.sleep(1000);
+    }
+    @Test
+    @SneakyThrows
+    public void test20() {
+        Thread.sleep(1000);
+    }
 }
